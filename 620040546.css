@@ -1,0 +1,25 @@
+img{
+	width:400px;
+	height:250px;
+	float:right;
+}
+
+p{
+	font-family:Arial;
+}
+
+p ul li{
+	text-align:right;
+}
+
+table tr td{
+	font-weight:bold;
+}
+
+body{
+	background-image:url(http://freedwallpaper.com/wp-content/uploads/2014/09/eastern-laguna-wallpapers_2633_1920x1200.jpg);
+}
+
+.vertical{
+	border-left:thick solid #ff0000;
+}
